@@ -1,0 +1,2 @@
+# GlassyDiscord
+Discord Theme
